@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "Monthly salary calculator",
 	"main": "dist/index.js",
-	"script": {
+	"scripts": {
 		"build": "npm i && tsc",
 		"start": "tsc && node dist/index.js",
 		"test": "jest"
