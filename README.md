@@ -8,10 +8,10 @@ When supplied employee details: first name, last name, annual salary (positive i
 
 The calculation details will be the following:
 
-* pay period = per calendar month  
-* gross income = annual salary / 12 months  
-* income tax = based on the tax table provided below  
-* net income = gross income - income tax  
-* super = gross income x super rate
+-   pay period = per calendar month
+-   gross income = annual salary / 12 months
+-   income tax = based on the tax table provided below
+-   net income = gross income - income tax
+-   super = gross income x super rate
 
 Notes: All calculation results should be rounded to the whole dollar. If >= 50 cents round up to the next dollar increment, otherwise round down.
